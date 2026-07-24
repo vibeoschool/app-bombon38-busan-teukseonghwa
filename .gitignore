@@ -1,0 +1,5 @@
+# 의존성/시스템 파일
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
